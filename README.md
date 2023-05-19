@@ -1,16 +1,26 @@
-### Hi there 👋
+✨ Welcone to my GitHub Profile! ✨
 
-<!--
-**Zaynah99/Zaynah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building a client side project utilising an API built by a BNTA Cohort 9 Team
+- 🌱 I’m currently learning how to use react.js
+- 💬 Ask me how to create the perfect coffee!
+- ⚡ Fun fact: I started my coding journey after attempting to create a blog for my family to see while I was away solo backpacking!
 
-Here are some ideas to get you started:
+<details>
+  
+<summary>My top languages</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Ability | Languages |               
+|--------:|---------------|                
+| Intermediate| Java      |                
+| Intermediate| Javascript|                 
+| Basic| SQL  |                 
+| Basic| Python|
+  
+ </details>
+
+
+
+
+
+
+
