@@ -1,4 +1,4 @@
-✨ Welcone to my GitHub Profile! ✨
+✨ Welcome to my GitHub Profile! ✨
 
 - 🔭 I’m currently working on building a client side project utilising an API built by a BNTA Cohort 9 Team
 - 🌱 I’m currently learning how to use react.js
