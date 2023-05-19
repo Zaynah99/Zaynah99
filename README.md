@@ -12,7 +12,7 @@
 | Ability | Languages |               
 |--------:|---------------|                
 | Intermediate| Java      |                
-| Intermediate| Javascript|                 
+| Intermediate| JavaScript|                 
 | Basic| SQL  |                 
 | Basic| Python|
   
