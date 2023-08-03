@@ -5,6 +5,16 @@
 - 💬 Ask me how to create the perfect coffee!
 - ⚡ Fun fact: I started my coding journey after attempting to create a blog for my family to see while I was away solo backpacking!
 
+
+
+<h3 align="center"> Tech Stack</h3>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=git,js,html,css,java,react,postgresql" />
+  </a>
+</p>
+
+
+
 <details>
   
 <summary>My top languages</summary>
