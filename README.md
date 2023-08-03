@@ -13,6 +13,13 @@
   </a>
 </p>
 
+<!-- HTML -->
+<h3 align="center"> You made it to the bottom! Here's a random dev joke for you:)</h3>
+<p align="center"> 
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  </a>
+</p>
+
 
 
 <details>
