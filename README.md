@@ -13,12 +13,18 @@
   </a>
 </p>
 
+<h3 align="center"> </h3>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=zaynah99&show_icons=true&theme=transparent" alt="Zaynah’s GitHub stats">
+</p>
+
 <!-- HTML -->
 <h3 align="center"> You made it to the bottom! Here's a random dev joke for you:)</h3>
 <p align="center"> 
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </a>
 </p>
+
 
 
 
