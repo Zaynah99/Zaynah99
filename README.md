@@ -1,11 +1,11 @@
-✨ Welcome to my GitHub Profile! ✨
+<p align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=29&duration=3500&pause=990&color=FFC1FC&background=FCFCFC00&center=true&vCenter=true&width=500&lines=%3Ch1%3EHello+World!%3C%2Fh1%3E;%3Cp%3EWelcome+to+my+GitHub!%3C%2Fp%3E;%3Cp%3EI'm+Zaynah%3A)%3C%2Fp%3E" alt="Typing SVG" /></a>
+</p>
 
-- 🔭 I’m currently working on building a full-stack social media project using Springboot and React!
-- 🌱 I’m currently learning how to use react.js
-- 💬 Ask me how to create the perfect coffee!
-- ⚡ Fun fact: I started my coding journey after attempting to create a blog for my family to see while I was away solo backpacking!
-
-
+- 🔭 I’ve recently completed a sprint, creating a full-stack social media project using Springboot and React!
+- 🌱 I’m currently improving my ReactJS skills
+- 💬 Ask me how to make a perfect coffee, I'm a big fan of latte art and love to show off my skills!
+- ⚡ Fun fact: I started my coding journey after attempting to create a blog for my family to see while travelling!
 
 <h3 align="center"> Tech Stack</h3>
 <p align="center"> 
@@ -22,20 +22,6 @@
 
 
 
-<details>
-  
-<summary>My top languages</summary>
-
-| Ability | Languages |               
-|--------:|---------------|                
-| Intermediate| Java      |                
-| Intermediate| JavaScript|
-| Intermediate| HTML      |
-| Intermediate| CSS       |
-| Basic| SQL  |                 
-| Basic| Python|
-  
- </details>
 
 
 
